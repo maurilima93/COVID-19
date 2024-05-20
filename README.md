@@ -336,6 +336,3 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Scottish Government: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
     
 
-
-<b>Embed our dashboard into your webpage:</b>
-
